@@ -1,5 +1,4 @@
 # simpleftp
-simple socket programming experiment
 
 FTP server supporting multiple clients
 
